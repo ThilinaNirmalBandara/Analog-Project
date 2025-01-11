@@ -68,7 +68,7 @@ The final step involves the **main amplifier**, which amplifies the selected aud
   ![Signal Flow Diagram](https://github.com/ThilinaNirmalBandara/Analog-Voice-Over-Device/blob/679a9b1e865f342f0b4994b55c33be4710e8329a/SignalFlow.jpg)
 
 ---
-![Video Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)
+![Video Demo](https://github.com/ThilinaNirmalBandara/Analog-Voice-Over-Device/blob/0a98f55dccdce1c27985faf1868a9e6a9666198b/test%20video.mp4)
 ## **Components Used:**
 - Band-pass filter
 - Pre-amplifier IC
