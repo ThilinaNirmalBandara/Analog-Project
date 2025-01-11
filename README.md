@@ -65,7 +65,7 @@ The final step involves the **main amplifier**, which amplifies the selected aud
   ![Product Images](https://github.com/ThilinaNirmalBandara/Analog-Voice-Over-Device/blob/318dd59bc88416f0e50e63e3511de1af58523332/enc.jpeg)
   
 - **Signal Flow Diagram:**  
-  ![Signal Flow Diagram](path-to-your-flowchart-image.jpg)
+  ![Signal Flow Diagram](https://github.com/ThilinaNirmalBandara/Analog-Voice-Over-Device/blob/679a9b1e865f342f0b4994b55c33be4710e8329a/SignalFlow.jpg)
 
 ---
 
