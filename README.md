@@ -76,7 +76,9 @@ The final step involves the **main amplifier**, which amplifies the selected aud
 - Comparator IC
 - Main amplifier IC
 - Various passive components (resistors, capacitors)
-
+## **Specific ICs Used:**
+- LM386 for amplifier circuits
+- NE5532 for other circuits
 ---
 
 By completing this project, we develop a deeper understanding of analog systems, gain skills in circuit design and troubleshooting, and enhance our ability to create complex systems using only analog components.
