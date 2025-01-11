@@ -59,10 +59,10 @@ The final step involves the **main amplifier**, which amplifies the selected aud
 *Here, you can insert images showing the layout of the circuit, the enclosure, and the working prototype.*
 
 - **PCB Design:**  
-  ![Circuit Schematic](https://github.com/ThilinaNirmalBandara/Analog-Voice-Over-Device/blob/e1cf411c256b8b1af5544d0714d4765a2282a1cc/pcb.jpeg)
+  ![PCB Design](https://github.com/ThilinaNirmalBandara/Analog-Voice-Over-Device/blob/e1cf411c256b8b1af5544d0714d4765a2282a1cc/pcb.jpeg)
   
 - **Product Images:**  
-  ![Prototype Setup](path-to-your-prototype-image.jpg)
+  ![Product Images]((https://github.com/ThilinaNirmalBandara/Analog-Voice-Over-Device/blob/318dd59bc88416f0e50e63e3511de1af58523332/enc.jpeg))
   
 - **Signal Flow Diagram:**  
   ![Signal Flow Diagram](path-to-your-flowchart-image.jpg)
